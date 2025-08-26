@@ -12,7 +12,7 @@ services:
     startCommand: python3 Tepthon.py
     region: frankfurt
     envVars:
-      - key: APP_ID
+      - key: APP
         sync: false
       - key: API_HASH
         sync: false
